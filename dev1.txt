@@ -1,1 +1,1 @@
-echo "Olá mundo, aqui é uma nova alteração" > dev1.txt
+Olá mundo, aqui é uma nova alteração
